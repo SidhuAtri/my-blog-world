@@ -1,0 +1,55 @@
+.sidebar-list a {
+  text-decoration: none;
+  color: #3a3e3b;
+  border: 2px solid #3a3e3b;
+  background-color: white;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bolder;
+  letter-spacing: 0.2rem;
+  border-radius: 20px;
+
+}
+
+.sidebar-list a:hover {
+  text-decoration: none;
+  color: white;
+  background-color: #698f3f;
+  border: 2px solid white;
+}
+
+.blog-cat:hover {
+  background-color: #698f3f;
+  text-decoration: none;
+  border: 2px solid white;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bolder;
+  letter-spacing: 0.2rem;
+  color: white;
+  border-radius: 20px;
+}
+
+.blog-cat {
+  background-color: white;
+  text-decoration: none;
+  border: 2px solid #3a3e3b;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bolder;
+  letter-spacing: 0.2rem;
+  color: #3a3e3b;
+  border-radius: 20px;
+}
+
+a {
+  text-decoration: none;
+}
+
+h3 {
+  font-family: cursive;
+  color: white;
+}
+
+img {
+  outline: 0.2rem solid white;
+  outline-offset: 4px;
+}
+

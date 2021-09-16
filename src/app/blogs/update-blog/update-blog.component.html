@@ -1,0 +1,49 @@
+<br>
+<h2 class="bg-light mb-2 text-center">Update Blog</h2>
+<form (submit)="updateBlog(updateBlogForm)" #updateBlogForm="ngForm" style="border: 5px solid black; padding: 10px;">
+    <div class="form-row">
+        <div class="col-md-4 mb-3">
+            <label for="validationServer01">Blog No.</label>
+            <input type="number" class="form-control" required name="blog_id" [(ngModel)]="blogDetails.id" ngModel>
+        </div>
+        <div class="col-md-8 mb-3">
+            <label for="validationServer01">Title</label>
+            <input type="text" class="form-control" required name="blog_title" [(ngModel)]="blogDetails.title" ngModel>
+        </div>
+    </div>
+    <div class="form-row">
+        <div class="col-md-4 mb-3">
+            <label>Category</label>
+            <select class="custom-select" required name="blog_category" [(ngModel)]="blogDetails.categoryId" ngModel>
+                <option selected value="">Choose...</option>
+                <option value="1">Tech</option>
+                <option value="2">Food</option>
+                <option value="3">Travel</option>
+                <option value="4">Health</option>
+                <option value="5">Sports</option>
+            </select>
+        </div>
+        <div class="col-md-8 mb-3">
+            <label for="validationServer01">Sub-Title</label>
+            <input type="text" class="form-control" required name="blog_sub_title" [(ngModel)]="blogDetails.subTitle"
+                ngModel>
+        </div>
+    </div>
+    <div class="form-row">
+        <div class="col-md-12 mb-3">
+            <label for="validationServer01">Image URL</label>
+            <input type="text" class="form-control" required name="blog_img_url" [(ngModel)]="blogDetails.blogImg"
+                ngModel>
+        </div>
+    </div>
+    <div class="form-row">
+        <div class="col-md-12 mb-3">
+            <label for="validationServer01">Description</label>
+            <textarea type="text" class="form-control" rows="8" cols="50" required name="blog_description"
+                [(ngModel)]="blogDetails.body" ngModel>
+            </textarea>
+        </div>
+    </div>
+
+    <button class="btn btn-warning" type="submit">Update Blog</button>
+</form>

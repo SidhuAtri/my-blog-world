@@ -1,0 +1,12 @@
+<div class="card mt-4">
+    <img class="card-img-top img-fluid" src={{blogDetails.blogImg}} alt="">
+    <div class="card-body">
+        <h2 class="card-title">{{blogDetails.title}}</h2>
+        <h3>{{blogDetails.subTitle}}</h3>
+        <p class="card-text">{{blogDetails.body}}</p>
+    </div>
+    <div class="card-footer bg-gradient-dark">
+        <a class="btn btn-primary mr-3" href="blogs/update-blog/{{blogDetails.id}}">Update Blog</a>
+        <a class="btn btn-danger" href="blogs/delete-blog/{{blogDetails.id}}">Delete Blog</a>
+    </div>
+</div>

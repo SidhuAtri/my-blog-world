@@ -1,0 +1,35 @@
+<br />
+<div class="container-fluid m-0 p-0 side-bg">
+  <a href="blogs" class="list-group-item blog-cat mt-4 mb-2">
+    View All Blogs
+  </a>
+  <a href="blogs/add-blog" class="list-group-item blog-cat"> Add Blog </a>
+
+  <h3 class="mt-5 text-center mb-2">Blog Categories</h3>
+  <div class="sidebar-list mb-5" id="sidebar-wrapper">
+    <div class="list-group list-group-flush" *ngFor="let cat of categoryList">
+      <a href="blogs/category/{{ cat.id }}" class="list-group-item">
+        {{ cat.categoryName }}
+      </a>
+    </div>
+  </div>
+  <div class="container my-5">
+    <h3 class="mt-5 text-center mb-4">Featured</h3>
+
+    <div class="row mt-0">
+      <div class="col-lg-6">
+        <figure>
+          <img
+            src="https://i.pinimg.com/originals/f3/fa/3f/f3fa3f36addbfbef6695c23d1313004b.jpg"
+            height="220"
+            width="260"
+          />
+        </figure>
+      </div>
+      <figcaption class="pl-2 text-light">
+        Drinking Coffee is always fun!
+      </figcaption>
+    </div>
+  </div>
+  
+</div>

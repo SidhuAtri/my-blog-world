@@ -1,0 +1,22 @@
+<br />
+<div class="container">
+  <div class="row">
+    <div class="col-lg-4 col-md-6 mb-4" *ngFor="let blog of blogList">
+      <div class="card h-100 card-bd">
+        <a routerLink="blog/{{ blog.id }}"
+          ><img class="card-img-top" src="{{ blog.blogImg }}" alt=""
+        /></a>
+        <div class="card-body">
+          <h4 class="card-title">
+            <a routerLink="blog/{{ blog.id }}">
+              {{ blog.title }}
+            </a>
+          </h4>
+          <p class="card-text">
+            {{ blog.subTitle }}
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

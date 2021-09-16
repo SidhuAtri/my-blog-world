@@ -1,0 +1,100 @@
+{
+  "blogs": [
+    {
+      "id": 1,
+      "categoryId": 2,
+      "blogImg": "https://iamafoodblog.b-cdn.net/wp-content/uploads/2021/03/strawberry-oat-muffins-2129.jpg",
+      "title": "Strawberry Oatmeal Muffins",
+      "subTitle": "The perfect springtime muffin to remind you of warmer days ahead filled with summer strawberries.",
+      "body": "These oatmeal strawberry muffins are the perfect combination of healthy and sweet treat. A hearty, healthy(ish) oatmeal muffin studded with sweet strawberries. Spring is in the air. The cherry blossoms are starting to bloom and the sunshine is starting to give me serious serotonin. Whenever the weather turns warm, I think about long walks, picnics, and chill vibes hikes. And when I think about hikes, I think about hiking snacks, like these muffins! They’re topped with a sprinkle of crunchy sanding sugar and have a hefty amount of protein rich, keep-you-full, rolled oats. I love the combination of juicy, jammy strawberries with the nuttiness of oats. There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc."
+    },
+    {
+      "id": 2,
+      "categoryId": 2,
+      "blogImg": "https://iamafoodblog.b-cdn.net/wp-content/uploads/2021/03/baked-oats-1987w.jpg",
+      "title": "Baked Oats",
+      "subTitle": "Cake for breakfast, and I am here for it!",
+      "body": "If you’re looking for a sweet breakfast treat that’s healthy and delicious, baked oats are here for you. I’ve been eating these oats every morning for the last six days. I saw them everywhere on Tiktok for a solid week before I caved and decide to make a tiny batch to give them a try. I don’t know why I didn’t try baked oats earlier because like a lot of other Tiktok viral recipes, they’re SO GOOD. Unlike your regular baked oats (which is essentially oatmeal but baked) the oats for tiktok baked oats are blended into oat flour and then baked up into a little cake. You can mix in anything your heart desires, get the heart health benefits of oats, and eat cake! If you like your oatmeal gooey you can under bake it a bit and it’ll taste kind of like the soft middle of a really good oatmeal cookie. If you like cake, you can bake it until it’s tall and fluffy. It’s infinitely customizable and I love it because it keeps me full for a long time. There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc."
+    },
+    {
+      "id": 3,
+      "categoryId": 1,
+      "blogImg": "https://www.technewsworld.com/article_images/story_graphics_xlarge/xl-2017-3d-rendering-house-1.jpg",
+      "title": "3D Printed Homes",
+      "subTitle": "It's Time to Consider 3D Printed Homes",
+      "body": "Last week I was on a panel discussing how 3D printed home building could help emerging countries more rapidly deal with homeless issues, reduce the discrepancies between the poor and rich, and create a more sustainable future. Given the massive power problems in California last summer and in Texas last week, these homes could help deal with power outages if they are designed to operate off distributed solar or wind; and they could help deal with the U.S. homeless problem as well. This emerging building method is also far less wasteful, far faster, and far cheaper to build much sturdier homes. The only real downside is that the skills and technology to build these houses aren't widely available yet. Still, a shift to 3D printed building could create many new white-collar jobs and the training required isn't considered exceedingly difficult.Let's talk about 3D printed homes, and we'll close with my product of the week, the ARM-based HP Elite Folio.Many industries are being transformed by 3D printing this century.Starting with manufacturing: HP, for example, moved from prototyping to production parts, then to colors, and finally to metals. They are working on mixed material 3D printing and the possibility of composite metal/plastic parts.Redefine Meat has demonstrated 3D printed steaks and is planning to move into other beef cuts, creating a path to eventually being able to print food at home. If broadly adopted, this technology eliminates much of the greenhouse gasses and adverse environmental impacts of beef production, which are significant There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc."
+    },
+    {
+      "id": 4,
+      "categoryId": 3,
+      "blogImg": "https://www.thetravelblogs.com/wp-content/uploads/2021/03/Pondicherry.jpg",
+      "title": "The Blend of French Colony",
+      "subTitle": "Travel Guide to The Blend of French Colony",
+      "body": "A beautiful town, with a French connection: Pondicherry! Our love for Southern India continues, our new blog gives a detailed description of our travels in the Cape Comorin. First stop in our journey is the picturesque town of Pondicherry. Come join us in our first ever Travel Journey Blog across South India. The more you explore down south the more you will fall in love with the place. Read the complete blog on our website. There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc."
+    },
+    {
+      "id": 5,
+      "categoryId": 1,
+      "title": "Fourth Industrial Revolution",
+      "subTitle": "First 3 Industrial Revolutions and An Update on the Fourth Industrial Revolution",
+      "blogImg": "https://www.technewsworld.com/article_images/story_graphics_xlarge/xl-2020-software-engineer-1.jpg",
+      "body": "The Fourth Industrial Revolution has been going on for a while now, arguably starting soon after the beginning of this century with the viable birth of artificial intelligence. It brings with it the promise of advancements in blending humans and machines with mechanical organ and limb replacements, considerable advancements in machine intelligence (a term I think is more accurate than AI), flying cars, the rise of autonomous machines, massive instrumentation of the civilian population, and a world war. But this world war is a war on pollution and global warming, which is increasingly causing harmful weather events, rising oceans, and the polarization of world views. It has also resulted in another huge problem that must be an immediate global need to get extended auto insurance protection (I swear if I didn't get calls for this, my phone would rarely ring). The joke on auto insurance aside, this Industrial Revolution will force us to reconsider who we trust for information, where human ends and machines begin, and visa-versa. It will also require we take a far closer look at work-life balance because we could end up being hardwired to computational resources, potentially having us on the job 24/7 if we aren't careful. Wondering about sleep? Recent breakthroughs indicate we could likely work while we sleep. Granted, we'll need to work on dream quality because, in most of mine, I seem to be looking for cars in parking lots, classes I'm late for, or agonizing over tests for which I haven't studied. Robotic advancements are far farther along than most realize, ranging from advanced robotic pets and beasts of burden, to robotic weapons systems; not to mention artificial and quantum brains."
+    },
+    {
+      "id": 6,
+      "categoryId": 2,
+      "blogImg": "https://iamafoodblog.b-cdn.net/wp-content/uploads/2021/03/air-fryer-potatoes-1561w.jpg",
+      "title": "Air Fryer Potatoes",
+      "subTitle": "These crispy, crunchy, garlic-onion air fryer potatoes are probably the fastest roast potatoes you’ll ever make.",
+      "body": "Air fryer potatoes are probably the fastest roast potatoes you’ll ever make. Crispy, crunchy, garlic-onion air fryer potatoes are my ultimate snack food. Forget chips, my new thing is making a big batch of these crispy baby potatoes and eating the heck out of it. The other day I made a pound of potatoes and I have to confess: I ate the entire thing. I was having a rough day and my usual go-to bag of ranch chips wasn’t in the house. In the fridge was a bag of baby potatoes, so I popped them in the air fryer, halved and tossed with olive oil and a huge amount of garlic and onion powder. There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc."
+    },
+    {
+      "id": 7,
+      "categoryId": 4,
+      "blogImg": "https://images.squarespace-cdn.com/content/v1/584d4982f5e2310b396d00f5/1604391911251-UHADUXTNJ2V9OVMME5F8/ke17ZwdGBToddI8pDm48kCnsbf217O08VgDNQehRfGUUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKc71iJnwBDrNgRb7x1KNVQf73XHNxYeAfhTMAb0RtpEQ22MhMa019yRtxuNCiRiUUS/winter_1_.jpg?format=1500w",
+      "title": "5 Tips for a Healthy Winter",
+      "subTitle": "How are you navigating the change in season - here are the tips.",
+      "body": "Human beings are cyclical beings, meaning that we are influenced by cycles such as our sleep cycles and we also are influenced by the seasons. Women of course are also influenced by their menstrual cycles.  The nights are now shorter and the day light hours are less. To support our natural cycles, we need to give our hormones the best chance of being in balance. If you embrace the changes that winter brings and support and nourish your body it can really help.  During the winter, some people suffer from SAD stands for Seasonal Affective Disorder which is known as ‘winter depression’. The reason that some people suffer here in the UK is due to the lack of sunlight and this affects hormone production such as serotonin, the happy hormone and also our sleep hormones melatonin. Low levels of serotonin can lead to a disruption of circadian rhythms and restless sleep. There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc."
+    },
+    {
+      "id": 8,
+      "categoryId": 5,
+      "blogImg": "https://www.thecricketblog.com/wp-content/uploads/Rishabh-Pant.jpg",
+      "title": "Ind Tour of Australia 2020",
+      "subTitle": "India breach Australia’s Brisbane stronghold to seal epic series win",
+      "body": "ndia came to the Gabba, Brisbane to play the deciding fourth Test with nine down to injuries but completely healed from the Adelaide debacle, thanks to the Melbourne win and the famous Sydney draw. A team which finished the first Test batting to a miserable 36/9 to go one down in the series had a huge uphill and impossible task on hand. India’s never say die attitude and the heroics in the last couple of weeks ensured they rewrote history by scripting a nerve wracking chase to confine the Aussies to only their second loss on this ground in the last 32 years. It was the West Indies who last beat them here, way back in 1988. Excepting Pujara’s stubborn resistance and his able support to first Gill and then Pant, the other two senior batsmen, Rohit and Rahane failed to rise to the occasion here. This will surely be one of the India-Australia Tests to be remembered for centuries to come after the epic Kolkata win almost a couple of decades ago.  If India’s fortunes on the pitch took a plunge before that comeback script then, it was India’s woes off the field this time around. With a combined experience of only four Tests, the pace quartet laid the foundation for India in style. No one gave a chance to the Indians before they arrived here and even last night, a draw appeared a huge achievement enabling India to retain the Border-Gavaskar Trophy. But the young brigade surely had different ideas and their own strategy. Probably a draw was never in their mind at all. The progressive increase in the absence of the seniors throughout the series never deterred this bunch. They had nothing to lose, only the opportunity to ensure a long Test career. Long after the emergence of fearless India under the leadership of Sourav Ganguly against this very same Aussies, a team which has seized every opportunity coming their way has shown that a new India is born again. There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc."
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "categoryName": "Tech"
+    },
+    {
+      "id": 2,
+      "categoryName": "Food"
+    },
+    {
+      "id": 3,
+      "categoryName": "Travel"
+    },
+    {
+      "id": 4,
+      "categoryName": "Health"
+    },
+    {
+      "id": 5,
+      "categoryName": "Sports"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

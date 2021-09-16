@@ -1,0 +1,16 @@
+.bg-header {
+  outline: 5px solid rgb(58, 58, 58);
+  outline-offset: 4px;
+  background-color: black;
+
+}
+
+a {
+  text-decoration: none;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 20px;
+  font-weight: bolder;
+  letter-spacing: 0.2rem;
+  color: white;
+  text-shadow: 0px 0spx 5px white;
+}
